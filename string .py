@@ -1,0 +1,6 @@
+print("rnter the string")
+a=input()
+print("enter second string")
+b=input()
+c=(b in a)
+print(c)
